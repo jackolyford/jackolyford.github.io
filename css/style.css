@@ -1,0 +1,26 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+main {
+    margin-top: 80px;
+}
+
+h1 {
+    font-size: 3rem;
+}
